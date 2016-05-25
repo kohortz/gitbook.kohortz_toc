@@ -13,6 +13,7 @@
            * [Business Plan](business_plan.md)
            * [MMO](mmo.md)
            * [User Data](user_data.md)
+               * [Data Structure](data_structure.md)
                * [Data Entry 1 - Basic Information](data_entry_1_-_basic_information.md)
                * [Data Entry 2 - CV](data_entry_2_-_cv.md)
                * [User Data 3 - Work Life Balance](user_data_3_-_work_life_balance.md)
@@ -22,5 +23,4 @@
                * [Data Entry 7 - Confidential](data_entry_7_-_confidential.md)
                * [Data Entry 8 - Confidential](data_entry_8_-_confidential.md)
                * [Data Entry 9 - Aesthetic's & Style](data_entry_9_-_aesthetics_&_style.md)
-               * [Data Structure](data_structure.md)
 

@@ -21,5 +21,5 @@
                * [User Data 6 - Work Preferences](user_data_6_-_work_preferences.md)
                * [Data Entry 7 - Confidential](data_entry_7_-_confidential.md)
                * [Data Entry 8 - Confidential](data_entry_8_-_confidential.md)
-               * Data Entry 9 - Aesthetic's & Style
+               * [Data Entry 9 - Aesthetic's & Style](data_entry_9_-_aesthetics_&_style.md)
 

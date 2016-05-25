@@ -5,5 +5,5 @@
    * [Presentation Deck](presentation_deck.md)
        * Presentation Deck Outline
        * [Kohortz Summary Pitch](kohortz_summary_pitch.md)
-   * Meeting Agendas
+   * [Meeting Agendas](meeting_agendas.md)
 

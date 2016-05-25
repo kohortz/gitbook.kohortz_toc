@@ -9,5 +9,5 @@
    * [Project Management](project_management.md)
    * [WhitePaper](whitepaper.md)
    * [Community Articles](community_articles.md)
-   * Business Plan
+   * [Business Plan](business_plan.md)
 

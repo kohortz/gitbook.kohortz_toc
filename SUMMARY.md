@@ -13,5 +13,5 @@
            * [Business Plan](business_plan.md)
            * [MMO](mmo.md)
            * [User Data](user_data.md)
-               * Data Entry 1 - Basic Information
+               * [Data Entry 1 - Basic Information](data_entry_1_-_basic_information.md)
 

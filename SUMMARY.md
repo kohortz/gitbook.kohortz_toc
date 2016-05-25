@@ -7,5 +7,5 @@
        * [Kohortz Summary Pitch](kohortz_summary_pitch.md)
    * [Meeting Agendas](meeting_agendas.md)
    * [Project Management](project_management.md)
-   * WhitePaper
+   * [WhitePaper](whitepaper.md)
 

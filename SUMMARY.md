@@ -19,5 +19,5 @@
                * [User Data 4 - Personal Preferences](user_data_4_-_personal_preferences.md)
                * [Data Entry 5 - Team Preferences](data_entry_5_-_team_preferences.md)
                * [User Data 6 - Work Preferences](user_data_6_-_work_preferences.md)
-               * Data Entry 7 - Confidential
+               * [Data Entry 7 - Confidential](data_entry_7_-_confidential.md)
 

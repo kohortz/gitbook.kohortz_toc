@@ -8,4 +8,5 @@
    * [Meeting Agendas](meeting_agendas.md)
    * [Project Management](project_management.md)
    * [WhitePaper](whitepaper.md)
+   * Community Articles
 

@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * [gDrive Directory](gdrive_directory.md)
    * [Main_Folder](mainfolder.md)
        * [Presentation Deck](presentation_deck.md)
            * Presentation Deck Outline
@@ -13,4 +12,5 @@
        * [Business Plan](business_plan.md)
        * [MMO](mmo.md)
        * [User Data](user_data.md)
+   * [gDrive Directory](gdrive_directory.md)
 

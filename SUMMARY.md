@@ -6,4 +6,5 @@
        * Presentation Deck Outline
        * [Kohortz Summary Pitch](kohortz_summary_pitch.md)
    * [Meeting Agendas](meeting_agendas.md)
+   * Project Management
 

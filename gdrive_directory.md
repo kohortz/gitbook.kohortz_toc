@@ -1,3 +1,0 @@
-# gDrive Directory
-
-Folders & Contents
